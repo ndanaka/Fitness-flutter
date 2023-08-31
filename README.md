@@ -44,10 +44,3 @@ $ flutter packages get
 # Run the app
 $ flutter run
 ```
-
-## Credits
-  - <a target="_blank" href="https://www.behance.net/gallery/75220505/Fitness-Lab">Design</a>
-
-## Contact
-  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
-  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
