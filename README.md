@@ -18,7 +18,6 @@
 </p>
 
 ## Knowledges
-This knowledges are basic for flutter developers (maybe all developers...) but was my first 'project' made in flutter so... starting with basic :P
 
 - Flutter structure and mentality to make a new screen;
 - Use and create custom components;
